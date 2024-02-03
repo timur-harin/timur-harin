@@ -6,6 +6,7 @@
 
 ## 👨‍💻 Stack
 - Flutter, Dart, Firebase
+- gRPC, REST
 - Swift, Python
 - Qt, C++
 - Git, Docker, PostgreSQL, MongoDB
