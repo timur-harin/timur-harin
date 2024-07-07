@@ -29,6 +29,11 @@
 - Runner agent system
 - Drag and drop code system
 
+**Flutter Developer in Self-Driving Lab** 📅 *November 2021 - March 2024*
+- Moved team from using QT to Flutter
+- Worked with Maps and Location
+- gRPC and WebRTC connections with ROS2
+
 ## Education
 
 ### Innopolis University
